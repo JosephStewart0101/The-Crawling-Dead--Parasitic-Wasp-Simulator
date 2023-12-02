@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Pixel Adventure 1/Scenes/Demo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Title_Card.unity
+    guid: dae062071c0f2784a9727cd92366b8c4
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: a1bb6112752038349bbbc92c6d46a4d0
+  - enabled: 1
+    path: Assets/Scenes/GameWorld.unity
+    guid: 896ce6c02e6b7374282faba7eb65d290
+  - enabled: 1
+    path: Assets/Scenes/AphidGame.unity
+    guid: 10dbafce223582e44b8d2d9191d4eed7
+  - enabled: 1
+    path: Assets/Scenes/CaterpillarMG.unity
+    guid: 0c430bba59216df4bbeb0878f56adbbe
+  - enabled: 1
+    path: Assets/Scenes/ConnectTheDotsMG.unity
+    guid: 25bc512632126ae4990ac96920877388
+  - enabled: 1
+    path: Assets/Scenes/DiggingMG.unity
+    guid: ed494668266d3b445a31e06ab9920a03
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: b4aafb9d20c85ad43a08d8a44d8f7274
+  - enabled: 1
+    path: Assets/Scenes/Initialization.unity
+    guid: f9048070e6ed6f3488c71a9f7574c719
+  - enabled: 1
+    path: Assets/Scenes/CaterpillarMG.unity
+    guid: 0c430bba59216df4bbeb0878f56adbbe
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: b4aafb9d20c85ad43a08d8a44d8f7274
+  - enabled: 1
+    path: Assets/Scenes/DiggingMG.unity
+    guid: ed494668266d3b445a31e06ab9920a03
+  - enabled: 1
+    path: Assets/Scenes/ConnectTheDotsMG.unity
+    guid: 25bc512632126ae4990ac96920877388
+  - enabled: 1
+    path: Assets/Scenes/AphidGame.unity
+    guid: 10dbafce223582e44b8d2d9191d4eed7
+  m_configObjects: {}

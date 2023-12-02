@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FlightButton
+  - Egg
+  - Ant
+  - Mask
+  - Spider
+  - Host
+  - ParasitizeButton
+  - CaterpillarWarp
+  - TraitLock
+  - PurchaseTrait
+  - Aphid
+  - OneWayPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - CPGhost
+  - CPPellet
+  - Obstacle
+  - CPNode
+  - Warp
+  - Plant
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2203576857
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 2346924919
+    locked: 0
+  - name: Host
+    uniqueID: 73709619
+    locked: 0
+  - name: UI
+    uniqueID: 2123069797
+    locked: 0

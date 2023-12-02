@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AphidWaspShort
+  m_Controller: {fileID: 9100000, guid: 0ede988ef912f3447b8ab182af739c71, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 348d306bdb6788a4dba0f23c3aa2ee0b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cbc2d3e4f4db016419c8a0de634b1af9, type: 2}

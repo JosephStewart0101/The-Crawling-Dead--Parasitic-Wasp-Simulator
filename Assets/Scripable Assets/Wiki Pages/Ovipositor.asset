@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcfa735ff557c014394899e8680ffef0, type: 3}
+  m_Name: Ovipositor
+  m_EditorClassIdentifier: 
+  title: Ovipositor
+  description: '   This tool is used to deposit chemicals and eggs into hosts, but
+    parasitoids have also been observed using this tool to dig through the soil.'
+  image: {fileID: 0}
+  unlocked: 1

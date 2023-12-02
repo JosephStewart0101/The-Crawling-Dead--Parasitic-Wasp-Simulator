@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcfa735ff557c014394899e8680ffef0, type: 3}
+  m_Name: Parasitism
+  m_EditorClassIdentifier: 
+  title: Parasitism
+  description: "   Parasitoids can either lay their eggs inside, endoparasitic, or
+    outside, ectoparasitic, of hosts. \n   Endoparasitoids are normally koinobiont,
+    which helps with the limited resources a host's body has.\n   Likewise, ectoparasitoids
+    are normally idiobiont, keeping hosts dormant to avoid damage to the eggs that
+    are outside of the host."
+  image: {fileID: 0}
+  unlocked: 1

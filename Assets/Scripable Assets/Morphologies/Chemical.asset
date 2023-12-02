@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0b44d8167ed89d4f9363e90ccfe0e58, type: 3}
+  m_Name: Chemical
+  m_EditorClassIdentifier: 
+  traits:
+  - {fileID: 11400000, guid: 960a8e47e8c7ef64ba6705b7c8a93fae, type: 2}
+  - {fileID: 11400000, guid: b4db147c5c7decc4aa57f1d8e928241f, type: 2}
+  description: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46f15e356fc39a24baf3742a9a3e97d7, type: 3}
+  m_Name: Caterpillar
+  m_EditorClassIdentifier: 
+  title: Caterpillar
+  description: "   Lepidoptera larvae spend all of their time eating, making these
+    insects large and dangerous for parasitoids to approach. They are known to fight
+    back, or drop down from leaves to avoid predators. \n   They make excellent hosts
+    for parasitoids, due to their large size, providing lots of sustenance for host
+    offspring."
+  image: {fileID: 672338018, guid: d0df85ffabf72c24d9688d124cf220ae, type: 3}
+  unlocked: 0
+  pageName: CaterpillarPage
